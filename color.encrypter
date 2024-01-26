@@ -1,0 +1,12 @@
+package objetos;
+
+public class OBJETOS 
+{
+	//hola
+    public static void main(String[] args) 
+    {
+      System.out.println("Nombre del paciente");
+      
+    }
+    
+}
